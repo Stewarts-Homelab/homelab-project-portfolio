@@ -56,7 +56,8 @@ This project focuses on securely accessing a home network remotely without expos
 * VPN connectivity issues in restricted environments
 * DNS inconsistencies causing connection failures
 * Router configuration conflicts (IPv6, DNS, NTP)
-
+* Router firmware update caused DNS resolution failure, requiring a full network reset and reconfiguration
+* OpenVPN setup was temporarily lost and scheduled for rebuild as part of system recovery
 ---
 
 ## Results
